@@ -1,7 +1,7 @@
 # BlueScreen
 Windows蓝屏漏洞
 
-![image-20210127000538791](assets/image-20210127000538791.png)
+![image-20210127001305914](assets/image-20210127001305914.png)
 
 ## 下载
 
