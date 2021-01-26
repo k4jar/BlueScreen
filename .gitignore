@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.*/
+PVZCheater.vcxproj.user
+.gitignore
+/bin/
